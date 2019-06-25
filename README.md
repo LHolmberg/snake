@@ -1,0 +1,2 @@
+# 3d-snake
+A 3D "snake" game (C++, OpenGL) with quite the remake. It has a first person camera with a gameplay similar to snake, your goal is to move your player with a joystick towards 3d pillars (i.e fruits in original snake). The purpose of this was to be used with the alarmclock application on my github as a game to force you to wake up and get your brain going while the alarm is ringing. Collect 10 pillars to end it.
